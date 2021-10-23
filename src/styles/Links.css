@@ -1,0 +1,31 @@
+
+.Links {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+
+.github {
+    color: #8632a6;
+    
+}
+.html5 {
+    color: tomato;
+    
+}
+.css3 {
+    color: #1e61af;
+    
+}
+.js {
+    color: rgb(228, 228, 6);
+    
+}
+.react {
+    color: #48d3fc;
+    
+}
+.fa-icon {
+    font-size: 2rem;
+}

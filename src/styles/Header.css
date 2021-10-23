@@ -1,0 +1,22 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 255px;
+    
+}
+
+.header-image {
+    width: 100%;
+}
+.profile-image {
+    width: 95px;
+    height: 95px;
+    align-items: center;
+    border-radius: 50%;
+    border: 6px dashed #2D46B9;
+    position: relative;
+    bottom: 57px;
+    transform: rotate(36deg);
+    
+}
